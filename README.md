@@ -1,6 +1,6 @@
 # MazeSolver
 
-My creation of a maze solver that can solve any maze with recursion. It uses java and feel free to upload your own maze. Check it out! 
+My creation of a maze solver that can solve any maze with recursion. This can solve any text maze you can throw at it in seconds using code. How cool is that! It uses java and feel free to upload your own maze to see if it can solve it. Check it out! Make sure to run the whole folder!
 
 Contributions are welcome! To contribute:
 
